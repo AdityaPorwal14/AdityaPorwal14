@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Learner by day ☼ and a Curious Explorer by night ☾
+#### Just a consistent learner on a journey to grow, solve, and build every single day.
 
 Computer Science Student at [SKIT Jaipur](https://www.skit.ac.in);<br>
 Passionate about solving problems, learning new things, and growing 1% every day.<br>
