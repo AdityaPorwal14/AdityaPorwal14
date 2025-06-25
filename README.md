@@ -12,5 +12,5 @@ Passionate about solving problems, learning new things, and growing 1% every day
 - 🧠 I believe in: "Small habits. Big results."
 - 📚 Love reading books like *Atomic Habits* & exploring how to live better, not just code better.
 
-Let’s connect
+Let’s connect :
 [LinkedIn](https://www.linkedin.com/in/adityaporwal14/)
