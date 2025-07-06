@@ -1,9 +1,9 @@
-### Hello Developers🌴
+### Hi Developers! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
+I’m [**Aditya**](https://www.linkedin.com/in/adityaporwal14/), a a Computer Science engineering student and full-time learner based in Jaipur, India.
 
-#### Just a consistent learner on a journey to grow, solve, and build every single day.
+Outside of code and debugging sessions, you’ll find me exploring self-improvement books like *Atomic Habits*, cycling around peaceful spots, or playing carrom with friends. I also enjoy creating content on LinkedIn about tech.
 
-Computer Science Student at [SKIT Jaipur](https://www.skit.ac.in)<br>
 Passionate about solving problems, learning new things, and growing 1% every day.<br>
 
 - ⚙️ I use daily: `.cpp`, `.sql`, `.html`, `.css`, `.js`, `.psd`
@@ -11,6 +11,3 @@ Passionate about solving problems, learning new things, and growing 1% every day
 - 💬 `ping` me about **problem-solving**, **tech learning**, **design**, **productivity hacks**!
 - 🧠 I believe in: "Small habits. Big results."
 - 📚 Love reading books like *Atomic Habits* & exploring how to live better, not just code better.
-
-Let’s connect:
-[LinkedIn](https://www.linkedin.com/in/adityaporwal14/)
