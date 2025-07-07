@@ -2,9 +2,9 @@
 
 I’m [**Aditya**](https://www.linkedin.com/in/adityaporwal14/), a Computer Science engineering student.
 
-Outside of code and debugging sessions, you’ll find me exploring self-improvement books also i creating content on LinkedIn about tech & coding.
-
 Passionate about solving problems, learning new things, and growing 1% every day.<br>
+
+Outside of code and debugging sessions, you’ll find me exploring self-improvement books also i creating content on LinkedIn about tech & coding.
 
 - ⚙️ I use daily: `.cpp`, `.sql`, `.html`, `.css`, `.js`, `.psd`
 - 🌱 Currently focused on building strong foundations in **DSA** and **Core Concepts**
