@@ -6,8 +6,8 @@ Passionate about solving problems, learning new things, and growing 1% every day
 
 Outside of code and debugging sessions, you’ll find me exploring self-improvement books also i creating content on LinkedIn about tech & coding.
 
-- ⚙️ I use daily: `.cpp`, `.sql`, `.html`, `.css`, `.js`, `.psd`
-- 🌱 Currently focused on building strong foundations in **DSA** and **Core Concepts**
-- 💬 `ping` me about **problem-solving**, **tech learning**, **design**, **productivity hacks**!
-- 🧠 I believe in: "Small habits. Big results."
-- 📚 Love reading books like *Atomic Habits* & exploring how to live better, not just code better.
+#### Fun Facts:
+
+* Reached 2M+ impressions on LinkedIn organically  
+* Built a 5K+ follower community on LinkedIn
+
