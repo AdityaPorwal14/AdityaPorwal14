@@ -2,7 +2,7 @@
 
 I’m [**Aditya**](https://www.linkedin.com/in/adityaporwal14/), a Computer Science engineering student and full-time learner based in Jaipur, India.
 
-Outside of code and debugging sessions, you’ll find me exploring self-improvement books like *Atomic Habits*, cycling around peaceful spots, or playing carrom with friends. I also enjoy creating content on LinkedIn about tech.
+Outside of code and debugging sessions, you’ll find me exploring self-improvement books also i creating content on LinkedIn about tech & coding.
 
 Passionate about solving problems, learning new things, and growing 1% every day.<br>
 
