@@ -4,7 +4,7 @@ I’m [**Aditya**](https://www.linkedin.com/in/adityaporwal14/), a Computer Scie
 
 Passionate about solving problems, learning new things, and growing 1% every day.<br>
 
-Outside of code and debugging sessions, you’ll find me exploring self-improvement books also i creating content on LinkedIn about tech & coding.
+Outside of code and debugging sessions, you’ll find me exploring self-improvement books also i creating content on LinkedIn sharing coding resources and Insights & Inspiration.
 
 #### Fun Facts:
 
