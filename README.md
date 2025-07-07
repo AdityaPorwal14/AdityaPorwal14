@@ -1,6 +1,6 @@
 ### Hi Developers! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Aditya**](https://www.linkedin.com/in/adityaporwal14/), a Computer Science engineering student and full-time learner based in Jaipur, India.
+I’m [**Aditya**](https://www.linkedin.com/in/adityaporwal14/), a Computer Science engineering student.
 
 Outside of code and debugging sessions, you’ll find me exploring self-improvement books also i creating content on LinkedIn about tech & coding.
 
