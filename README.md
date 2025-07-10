@@ -6,7 +6,7 @@ Passionate about solving problems, learning new things, and growing 1% every day
 
 Outside of code and debugging sessions, you’ll find me exploring self-improvement books also i creating content on LinkedIn sharing coding resources, Insights & Inspiration.
 
-#### Fun Facts:
+#### Fun Facts
 
 * Reached 2M+ impressions on LinkedIn organically  
 * Built a 5K+ follower community on LinkedIn
